@@ -1,1 +1,1 @@
-kafka-manager:5.5.5-v1.2.3.13
+kafka-manager:5.5.5
