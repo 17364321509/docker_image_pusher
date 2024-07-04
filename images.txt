@@ -1,1 +1,1 @@
---platform=arm64 mysql/mysql-server:8.0
+--platform=arm64 redis:6.2.6
