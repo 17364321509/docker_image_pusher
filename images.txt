@@ -1,1 +1,1 @@
---platform=arm64 redis:6.2.6
+--platform=arm64 elasticsearch:7.10.2
