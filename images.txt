@@ -1,1 +1,1 @@
---platform=arm64 elasticsearch:7.10.2
+--platform=arm64 es:7.10.2
