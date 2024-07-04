@@ -1,1 +1,1 @@
-verdureorange/iotdb_arm:v0.13
+mysql:8.0-arm64
