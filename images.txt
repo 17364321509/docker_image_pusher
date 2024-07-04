@@ -1,1 +1,1 @@
-mysql:8.0-arm64
+--platform=arm64 mysql/mysql-server:8.0
