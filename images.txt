@@ -1,1 +1,1 @@
-arm64v8/elasticsearch:7.10.2
+arm64v8_elasticsearch:7.10.2
