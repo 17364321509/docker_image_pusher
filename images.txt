@@ -1,1 +1,1 @@
-arm64v8_elasticsearch:7.10.2
+nginx:1.25.0@sha256:f2ab27de75f97311b87e6287a14fad819302070a62f9b946ccf45e1fc6a508af
