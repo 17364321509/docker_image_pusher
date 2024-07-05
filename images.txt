@@ -1,1 +1,1 @@
-fuxa-server
+frangoteam/fuxa
