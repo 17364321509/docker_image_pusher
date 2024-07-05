@@ -1,1 +1,1 @@
-fuxa/fuxa-server
+fuxa-server
