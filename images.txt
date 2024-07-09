@@ -1,1 +1,1 @@
-kube-apiserver
+node:v3.25.0
