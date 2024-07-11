@@ -1,1 +1,1 @@
-docker.io/flannel/flannel:v0.25.4
+docker.io/bitnami/zookeeper:3.9.1-debian-11-r1
