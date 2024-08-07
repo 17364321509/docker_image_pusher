@@ -1,1 +1,1 @@
-docker.io/bitnami/zookeeper:3.9.1-debian-11-r1
+calico/cni:v3.26.1
