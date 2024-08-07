@@ -1,1 +1,1 @@
-calico/csi:v3.26.1
+calico/apiserver:v3.26.1
