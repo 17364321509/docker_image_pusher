@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.26.1
+calico/typha:v3.26.1
