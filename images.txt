@@ -1,1 +1,1 @@
-calico/apiserver:v3.26.1
+capsulecode/singlefile
