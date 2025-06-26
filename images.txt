@@ -1,1 +1,1 @@
-openjdk:11
+ONLYOFFICE/documentserver:5.7.1
